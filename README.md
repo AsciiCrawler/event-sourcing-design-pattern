@@ -5,7 +5,7 @@
 Hello and welcome to my repository! This project was primarily created to explore and implement the **Event Sourcing** design pattern, while also deepening my knowledge of **Self-Hosting** PostgreSQL and using **NestJS** in production environments.
 
 You can explore the project via **Swagger** here:  
-[event-sourcing-portfolio.asciicrawler.com](http://event-sourcing-portfolio.asciicrawler.com)
+[event-sourcing-portfolio.asciicrawler.com/api](http://event-sourcing-portfolio.asciicrawler.com/api)
 
 ---
 
