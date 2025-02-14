@@ -7,8 +7,9 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model User {
+model Event {
   id       Int    @id @default(autoincrement())
-  username String @unique
-  password String
+  username String
+  payload  Json
+  version  Int
 }
